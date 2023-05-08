@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Ken Arok',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
          Ini baru lumayan, buat foya-foya, kalau di nirwana.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'TJ Maxx',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
          Ttttttt... TJ Maxx.
