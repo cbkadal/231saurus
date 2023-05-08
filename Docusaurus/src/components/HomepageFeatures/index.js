@@ -5,6 +5,8 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Ken Arok',
+    // img: require('@site/static/img/C-neuman.jpg'),
+    // image: 'img/docusaurus-social-card.jpg',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
