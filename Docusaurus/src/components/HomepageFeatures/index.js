@@ -4,30 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Ken Arok',
-    // @site/static/img/C-neuman.jpg
-    img: require('@site/static/img/C-neuman.jpg').default,
+    title: 'Jolan Tru!',
+    img: require('@site/static/img/romulan.jpg').default,
     description: (
       <>
-         Ini baru lumayan, buat foya-foya, kalau di nirwana.
+        I tawt I taw a Romulan! --- Sheldon, TBBT(S1E13).
       </>
     ),
   },
   {
-    title: 'Chevrolet',
-    img: require('@site/static/img/docusaurus-social-card.jpg').default,
+    title: 'This is the Way!',
+    img: require('@site/static/img/grogu.jpg').default,
     description: (
       <>
-       The Heartbeat of America is Today's Chevrolet 
+        I'm a Mandalorian. Weapons are part of my religion -- Mando.
       </>
     ),
   },
   {
-    title: 'TJ Maxx',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'I have spoken!',
+    img: require('@site/static/img/kuiil.jpg').default,
     description: (
       <>
-         Ttttttt... TJ Maxx.
+         Hello Docusaurus, good by Jekkyl --- Qapla!
       </>
     ),
   },
@@ -62,3 +61,4 @@ export default function HomepageFeatures() {
   );
 }
 
+// START: Wed 10 May 2023 05:00

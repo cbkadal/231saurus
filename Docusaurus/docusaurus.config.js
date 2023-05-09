@@ -6,14 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '231saurus',               // Or else
-  tagline: 'This is the Way!',      // Or else
-  favicon: 'img/favicon.ico',       // Or else
-  url: 'https://cbkadal.github.io', // Or else
-  baseUrl: '/231saurus/',           // Or else
-  organizationName: 'cbkadal',      // (Usually your GitHub org/user name)
-  projectName: '231saurus',         // (Usually your repo name)
-  trailingSlash: true,              // "true/" or "false"
+  title: '231saurus',                     // Or else
+  tagline: 'May the fork() be with you!', // Or else
+  favicon: 'img/favicon.ico',             // Or else
+  url: 'https://cbkadal.github.io',       // Or else
+  baseUrl: '/231saurus/',                 // Or else
+  organizationName: 'cbkadal',            // (Usually your GitHub org/user name)
+  projectName: '231saurus',               // (Usually your repo name)
+  trailingSlash: true,                    // "true/" or "false"
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -121,9 +121,9 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- Revision: 04 - 10 May 2023`,
+        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- Revision: 04a - 10 May 2023`,
         // ZCZC
-        // REV04: Wed 10 May 2023 04:00
+        // REV04: Wed 10 May 2023 05:00
         // REV03: Fri 05 May 2023 20:00
         // REV02: Thu 04 May 2023 16:00
         // REV01: Wed 03 May 2023 20:00
