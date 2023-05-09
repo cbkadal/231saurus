@@ -26,7 +26,7 @@ const FeatureList = [
     img: require('@site/static/img/kuiil.jpg').default,
     description: (
       <>
-         Hello Docusaurus, good by Jekkyl --- Qapla!
+         Hello Docusaurus, good by Jekyll --- Qapla!
       </>
     ),
   },
@@ -61,4 +61,4 @@ export default function HomepageFeatures() {
   );
 }
 
-// START: Wed 10 May 2023 05:00
+// START: Wed 10 May 2023 05:30
