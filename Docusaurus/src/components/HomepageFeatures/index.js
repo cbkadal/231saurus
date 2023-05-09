@@ -5,9 +5,8 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Ken Arok',
-    // img: require('@site/static/img/C-neuman.jpg'),
-    // image: 'img/docusaurus-social-card.jpg',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    // @site/static/img/C-neuman.jpg
+    img: require('@site/static/img/C-neuman.jpg').default,
     description: (
       <>
          Ini baru lumayan, buat foya-foya, kalau di nirwana.
@@ -16,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Chevrolet',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    img: require('@site/static/img/docusaurus-social-card.jpg').default,
     description: (
       <>
        The Heartbeat of America is Today's Chevrolet 
@@ -34,11 +33,12 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, img,  title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {img && <img className={styles.featureSvg} role="img" src={img} />}
+        {Svg && <Svg className={styles.featureSvg} role="img" />}
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
