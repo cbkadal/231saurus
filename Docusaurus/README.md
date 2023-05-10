@@ -3,7 +3,6 @@
 
 ### Status
 
-<base target="_blank">
 * GitHub [Status](https://www.githubstatus.com/)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
