@@ -35,15 +35,20 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
+          // blogSidebarTitle: 'POSTS',
+          // blogSidebarCount: 3,
+          // postsPerPage: 5,
+          // blogTitle: 'Docusaurus blog!',
+          // blogDescription: 'A Docusaurus powered blog!',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -123,7 +128,7 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- Revision: 06 - 21 May 2023`,
         // ZCZC
-        // REV06: Sun 21 May 2023 10:00
+        // REV06: Sun 21 May 2023 16:00
         // REV05: Thu 11 May 2023 03:00
         // REV04: Wed 10 May 2023 05:00
         // REV03: Fri 05 May 2023 20:00

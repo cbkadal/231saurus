@@ -1,7 +1,7 @@
 # 231saurus
 ## by BinKadal, Sdn. Bhd.
 
-### MEMO
+### MEMO1
 
 ```
 npm audit fix
@@ -15,6 +15,14 @@ npm run start -- --host 0.0.0.0
 
 ```
 yarn deploy
+
+```
+
+### MEMO2
+
+```
+git reset --hard HEAD
+git clean -df
 
 ```
 
