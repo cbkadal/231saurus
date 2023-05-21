@@ -1,6 +1,23 @@
 # 231saurus
 ## by BinKadal, Sdn. Bhd.
 
+### MEMO
+
+```
+npm audit fix
+
+```
+
+```
+npm run start -- --host 0.0.0.0
+
+```
+
+```
+yarn deploy
+
+```
+
 ### Status
 
 * GitHub [Status](https://www.githubstatus.com/)
