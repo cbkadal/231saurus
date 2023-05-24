@@ -1,71 +1,16 @@
 # 231saurus
-## by BinKadal, Sdn. Bhd.
-
-### MEMO1
 
 ```
-npm audit fix
-
+C. BinKadal
+BinKadal Sdn. Bhd.
+Padang Besar, Songkhla 90240.
 ```
 
-```
-npm run start -- --host 0.0.0.0
+Kalau ada sumur di ladang<br>
+Bolehlah kita menjenguk mandi.<br>
+Kalau ada di Padang Panjang<br>
+Bolehlah kita berjumpa lagi.
+<br><br><hr><br><br>
+ถ้าในสนามมีบ่อน้ำ เราขอแอบดูบ่อน้ำ
+ถ้าคุณอยู่ในปาดัง ปันจัง เราคงได้พบกันใหม่
 
-```
-
-```
-yarn deploy
-
-```
-
-### MEMO2
-
-```
-git reset --hard HEAD
-git clean -df
-
-```
-
-### Status
-
-* GitHub [Status](https://www.githubstatus.com/)
-
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
