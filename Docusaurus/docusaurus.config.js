@@ -63,10 +63,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'HOME',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Logo',
+          src: 'img/cbkadal.jpg',
         },
         items: [
           {
@@ -74,6 +74,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
+            to: '/docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -126,10 +127,10 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- Revision: 07b - 23 May 2023`,
+        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- Revision: 08 - 24 May 2023`,
         // ZCZC
+        // REV08: Wed 24 May 2023 16:00
         // REV07: Tue 23 May 2023 21:00
-        // REV06: Sun 21 May 2023 16:00
         // REV05: Thu 11 May 2023 03:00
         // REV03: Fri 05 May 2023 20:00
         // REV01: Wed 03 May 2023 20:00
