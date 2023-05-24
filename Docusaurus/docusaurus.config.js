@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs',
               },
             ],
           },
@@ -127,9 +127,9 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- Revision: 08 - 24 May 2023`,
+        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- Revision: 08a - 24 May 2023`,
         // ZCZC
-        // REV08: Wed 24 May 2023 16:00
+        // REV08: Wed 24 May 2023 17:00
         // REV07: Tue 23 May 2023 21:00
         // REV05: Thu 11 May 2023 03:00
         // REV03: Fri 05 May 2023 20:00
