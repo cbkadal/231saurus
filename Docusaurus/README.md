@@ -6,11 +6,13 @@ BinKadal Sdn. Bhd.
 Padang Besar, Songkhla 90240.
 ```
 
-Kalau ada sumur di ladang<br>
+Kalau ada sumur di ladang,<br>
 Bolehlah kita menjenguk mandi.<br>
-Kalau ada di Padang Panjang<br>
-Bolehlah kita berjumpa lagi.
-<br><br><hr><br><br>
-ถ้าในสนามมีบ่อน้ำ เราขอแอบดูบ่อน้ำ
-ถ้าคุณอยู่ในปาดัง ปันจัง เราคงได้พบกันใหม่
-
+Kalau ada di Padang Besar<br>
+Bolehlah kita berjumpa lagi.<br>
+<br><hr><br>
+หากมีบ่อน้ำในสนาม<br>
+เราไปอาบน้ำกันเถอะ<br>
+ถ้ามีในปาดังเบซาร์<br>
+ขอให้เราได้พบกันใหม่<br>
+<br><hr><br>
