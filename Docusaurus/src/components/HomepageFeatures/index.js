@@ -22,7 +22,7 @@ const FeatureList = [
     img: require('@site/static/img/kuiil.jpg').default,
     description: (
       <>
-         Hello Docusaurus, good by Jekyll --- Qapla!
+         Hello Docusaurus, good by Jekyll!
       </>
     ),
   },

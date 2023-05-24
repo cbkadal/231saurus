@@ -9,4 +9,5 @@ authors:
 tags: [T1, T2, T3]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+StarBucks ipsum dolor J.CO Do Not! McD sit amet Wendy’s Burger King. 
+KFC urna libero, in purus Hanamasa, sore wa tempura Hokben.
