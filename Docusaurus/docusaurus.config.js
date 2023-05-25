@@ -13,7 +13,7 @@ const config = {
   baseUrl: '/231saurus/',                 // Or else
   organizationName: 'cbkadal',            // (Usually your GitHub org/user name)
   projectName: '231saurus',               // (Usually your repo name)
-  trailingSlash: true,                    // "true/" or "false"
+  trailingSlash: true,                    // "true" or "false"
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
