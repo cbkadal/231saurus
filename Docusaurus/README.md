@@ -6,6 +6,8 @@ BinKadal Sdn. Bhd.
 Padang Besar, Songkhla 90240.
 ```
 
+![Padang Besar](static/img/PadangBesar.jpg)
+
 Kalau ada sumur di ladang,<br>
 Bolehlah kita mengintip mandi.<br>
 Kalau ada di Padang Besar,<br>
