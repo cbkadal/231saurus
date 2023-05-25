@@ -4,11 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Qapla!',
+    title: 'Jolan Tru!',
     img: require('@site/static/img/grogu.jpg').default,
     description: (
       <>
-        Jolan Tru, this is the way!
+        Qapla', this is the way!
       </>
     ),
   },
