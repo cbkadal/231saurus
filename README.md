@@ -18,3 +18,11 @@ Bolehlah kita berjumpa lagi.<br>
 ถ้ามีในปาดังเบซาร์<br>
 ขอให้เราได้พบกันใหม่<br>
 <hr><br>
+Rev. 03 -- 27 May 2023
+<br>
+<!--
+REV03: Sat 27 May 2023 09:00
+REV02: Thu 25 May 2023 07:00
+REV01: Sun 10 May 2023 04:00
+START: Sun 07 May 2023 21:00
+-->
