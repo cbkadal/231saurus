@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[8034],{5595:s=>{s.exports=JSON.parse('{"label":"TAG1","permalink":"/231saurus/docs/tags/tag-1","allTagsPath":"/231saurus/docs/tags","count":1,"items":[{"id":"uniqID","title":"MarkDown TITLE","description":"Search Engine Descriptio","permalink":"/231saurus/docs/"}]}')}}]);
