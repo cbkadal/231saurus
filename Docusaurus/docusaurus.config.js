@@ -33,22 +33,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // blogSidebarTitle: 'POSTS',
-          // blogSidebarCount: 3,
-          // postsPerPage: 5,
-          // blogTitle: 'Docusaurus blog!',
-          // blogDescription: 'A Docusaurus powered blog!',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -73,7 +60,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'General',
             to: '/docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
@@ -91,7 +78,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'General',
                 to: '/docs',
               },
             ],
@@ -127,9 +114,9 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- Revision: 22a - 29 May 2023`,
+        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- Revision: 23 - 30 May 2023`,
         // ZCZC
-        // REV22: Mon 29 May 2023 19:00
+        // REV23: Tue 30 May 2023 08:00
         // REV19: Fri 26 May 2023 10:00
         // REV09: Thu 25 May 2023 07:00
         // REV05: Thu 11 May 2023 03:00
