@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="http://localhost:5001/231saurus/docs/category/appendix-a/">
+            to="/docs/category/appendix-a/">
             Cheat Sheet: 1 - 60; minutes ⏱️     
           </Link>
         </div>
