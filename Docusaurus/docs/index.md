@@ -2,26 +2,22 @@
 id: Introduction
 sidebar_position: 1
 title: Introduction
-description: Search Engine Descriptio
+description: "This GitHub repo can be used as a template for developing Docusaurus in general, 
+              explicitly using VirtualBox."
 image: /img/docusaurus.png
-tags: [TAG1, TAG2]
+tags: [Docusaurus, Template, VirtualBox]
 ---
 
 # Introduction
 
-StarBucks ipsum dolor J.CO Do Not! McD sit amet Wendy’s Burger King. 
-KFC urna libero, in purus Hanamasa, sore wa tempura Hokben.
-
-## SubHeader h2
-
-StarBucks ipsum dolor J.CO Do Not! McD sit amet Wendy’s Burger King. 
-KFC urna libero, in purus Hanamasa, sore wa tempura Hokben.
+This GitHub repo can be used as a template for developing Docusaurus in general, explicitly using VirtualBox.
 
 <hr />
 
-Rev. 03 -- 29 May 2023
+Rev. 04 -- 30 May 2023
 
 <!--
+REV04: Tue 30 May 2023 08:00
 REV03: Mon 29 May 2023 18:00
 REV02: Sun 28 May 2023 11:00
 REV01: Sat 27 May 2023 11:00
