@@ -1,19 +1,6 @@
 #!/bin/bash
-# START: Tue 30 May 2023 11:00
+# Wed 07 Jul 2021 21:30:42 WIB
 
-# Save the current branch name
-current_branch=$(git symbolic-ref --short HEAD)
-
-# Switch to the gh-pages branch
-git checkout gh-pages
-
-# Copy the README.md file from the master branch
-git checkout master -- README.md
-
-# Stage and commit the changes
-git add README.md
-git commit -m "Add README.md to gh-pages branch"
-
-# Switch back to the original branch
-git checkout "$current_branch"
+echo -n "xyzzy.."
+echo ". Nothing happens..."
 
