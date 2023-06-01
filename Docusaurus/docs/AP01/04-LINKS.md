@@ -10,6 +10,7 @@ tags: [LINKS]
 by BinKadal, Sdn. Bhd.
 
 ## LINK1
+- [Assets](https://docusaurus.io/docs/markdown-features/assets)
 - [Code Blocks](https://docs.readme.com/rdmd/docs/code-blocks)
 - [Docusaurus](https://docusaurus.io/)
 - [docusaurus.config.js](https://docusaurus.io/docs/api/docusaurus-config)
@@ -29,13 +30,13 @@ by BinKadal, Sdn. Bhd.
 
 <hr />
 
-Rev. 05 -- 01 Jun 2023
+Rev. 06 -- 02 Jun 2023
 
 <!--
+REV06: Fri 02 Jun 2023 03:00
 REV05: Thu 01 Jun 2023 19:00
 REV04: Mon 29 May 2023 10:00
 REV03: Sun 28 May 2023 11:00
-REV02: Sat 27 May 2023 10:00
 REV01: Fri 26 May 2023 10:00
 START: Thu 25 May 2023 19:00
 -->
