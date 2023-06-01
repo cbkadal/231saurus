@@ -19,9 +19,10 @@ by BinKadal, Sdn. Bhd.
 
 <hr />
 
-Rev. 02 -- 29 May 2023
+Rev. 04 -- 01 Jun 2023
 
 <!--
+REV04: Thu 01 Jun 2023 10:00
 REV03: Tue 30 May 2023 08:00
 REV02: Mon 29 May 2023 05:00
 REV01: Sun 28 May 2023 11:00
