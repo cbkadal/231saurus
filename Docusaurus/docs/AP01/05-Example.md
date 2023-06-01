@@ -1,10 +1,9 @@
 ---
-id: AP01CH05
 sidebar_position: 5
 title: 05 EXAMPLES
 description: Search Engine Description
 image: /img/docusaurus.png
-tags: [TAG1, TAG2]
+tags: [Examples]
 ---
 # Ch05: Examples
 by BinKadal, Sdn. Bhd.
@@ -145,7 +144,7 @@ import TabItem from '@theme/TabItem';
 
 ## Exporting components 1
 
-export const Highlight = ({children, color}) => (
+export const Highlight1 = ({children, color}) => (
   <span
     style={{
       backgroundColor: color,
@@ -157,8 +156,8 @@ export const Highlight = ({children, color}) => (
   </span>
 );
 
-<Highlight color="#25c2a0">Docusaurus green</Highlight> and 
-<Highlight color="#1877F2">Facebook blue</Highlight> are my favorite colors.
+<Highlight1 color="#25c2a0">Docusaurus green</Highlight1> and 
+<Highlight1 color="#1877F2">Facebook blue</Highlight1> are my favorite colors.
 
 I can write **Markdown** alongside my _JSX_!
 
@@ -166,15 +165,20 @@ I can write **Markdown** alongside my _JSX_!
 
 import Highlight2 from '@site/src/components/Highlight2';
 
-<Highlight2 color="#25c2a0">Docusaurus GREEN</Highlight2>
+<Highlight2 color="#25c2a0">Docusaurus green</Highlight2> and 
+<Highlight2 color="#1877F2">Facebook blue</Highlight2> are my favorite colors.
+
+I can write **Markdown** alongside my _JSX_!
 
 <!--
 npm install --save raw-loader
 -->
 ## Raw Loader
 
+[DOWNLOAD](/src/C00-hello.c)
+
 import CodeBlock from '@theme/CodeBlock';
-import MyComponentSource from '!!raw-loader!./C00-hello.c';
+import MyComponentSource from '!!raw-loader!/src/C00-hello.c';
 
 <CodeBlock language="c">{MyComponentSource}</CodeBlock>
 
