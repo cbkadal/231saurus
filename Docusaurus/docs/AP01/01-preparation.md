@@ -1,22 +1,38 @@
 ---
 sidebar_position: 1
-title: 01 DocuDemo
-description: Search Engine Description
-image: thumbnailImage
-tags: [Demo]
+title: 01 Preparation
+description: Docusaurus Preparation
+tags: [Preparation]
 ---
 
-# Ch01: DocuDemo
+# Ch01: Preparation
 
-## VirtualBox OVA 
-* Source: DOCU-2304-02.ova (Debian 11.7)
-  * OVA Link --- <https://bit.ly/3AWlRjN>
-* Settings (feel free to alter)
+## VirtualBox
+
+This OVA file was explicitly developed for Docusaurus.
+
+### OVA Debian 11.7
+* OVA Link (Google Drive): <https://bit.ly/3AWlRjN>
+* WGET command:
+```
+#!/bin/bash
+# START: Thu 01 Jun 2023 17:00
+FILENAME="DOCUDEMO-00.ova"
+FILEID="1I6q--JE4AQ44kuOTPydFOKfiYj0-2qyw"
+SHA256SUM="d29c355255b14e3832e1ff0b900323f956568dac2ef2d1b6d9b225d2da40f448"
+wget -c --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=$FILEID' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=$FILEID" -O $FILENAME && rm -rf /tmp/cookies.txt
+echo $(sha256sum -c <<< "$SHA256SUM $FILENAME") '(SHA256SUM)'
+
+```
+
+### OVA Default Settings
+
+Please change the configuration according to the hardware specifications used.
   * Memory     :  4 GB
   * Disk       : 24 GB
   * Cores      :  6
   * usr/passwd : root/cbkadal and cbkadal/cbkadal
-  * NAT        :
+  * NAT        : 
 
 ```
 127.0.0.1:6022/10.0.2.15:22 (SSH)
@@ -24,22 +40,23 @@ tags: [Demo]
 
 ```
 
-* Ref:
-  * Debian ISO <https://doit.vlsm.org/012.html>
-  * Preparation <https://doit.vlsm.org/013.html>
-  * Instalation <https://doit.vlsm.org/014.html>
-
-## NAT Port Forwarding (port 3000 to 5001)
+### NAT Port Forwarding (port 3000 to 5001)
 
 ```
-| ------ | -------- | --------- | --------- | --------- | ---------- |
-| Name   | Protocol | Host IP   | Host Port | Guest IP  | Guest Port |
-| ------ | -------- | --------- | --------- | --------- | ---------- |
-| Rule 2 | TCP      | 127.0.0.1 | 5001      | 10.0.2.15 | 3000       |
-| ------ | -------- | --------- | --------- | --------- | ---------- |
+| ------ | -------- | --------- | -----| --------- | -----|
+| Name   | Protocol | Host IP   | Port | Guest IP  | Port |
+| ------ | -------- | --------- | -----| --------- | -----|
+| Rule 1 | TCP      | 127.0.0.1 | 6022 | 10.0.2.15 |   22 |
+| Rule 2 | TCP      | 127.0.0.1 | 5001 | 10.0.2.15 | 3000 |
+| ------ | -------- | --------- | -----| --------- | -----|
 ```
 
 ![Port Forwarding](/img/debVBOX-034.jpg)
+
+### References
+* Debian ISO <https://doit.vlsm.org/012.html>
+* Preparation <https://doit.vlsm.org/013.html>
+* Instalation <https://doit.vlsm.org/014.html>
 
 ## GitHub
 * You should have a GitHub account. E.g. "cbkadal".
@@ -224,7 +241,7 @@ npm install -g npm@9.6.6
 Rev. 08 --- 01 Jun 2023
 
 <!--
-REV08: Thu 01 Jun 2023 10:00
+REV08: Thu 01 Jun 2023 19:00
 REV07: Sun 28 May 2023 11:00
 REV05: Thu 25 May 2023 07:00
 REV03: Fri 05 May 2023 20:00
