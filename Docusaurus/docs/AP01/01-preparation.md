@@ -16,9 +16,9 @@ This OVA file was explicitly developed for Docusaurus.
 * OVA Link (Google Drive): <https://bit.ly/3AWlRjN>
 * WGET command:
 
-import S00wgetOVA from '!!raw-loader!/src/S00-wgetOVA.sh';
+import AS01wgetOVA from '!!raw-loader!../assets/src/01-wgetOVA.sh';
 
-<CodeBlock language="bash">{S00wgetOVA}</CodeBlock>
+<CodeBlock language="bash">{AS01wgetOVA}</CodeBlock>
 
 ### OVA Default Settings
 
