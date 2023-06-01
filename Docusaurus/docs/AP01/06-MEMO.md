@@ -1,21 +1,19 @@
 ---
-id: AP01CH06
 sidebar_position: 6
 title: 06 MEMO
 description: Search Engine Description
 image: thumbnailImage
-tags:
-  - TAG1
-  - TAG2
+tags: [MEMO]
 ---
 
 # Ch06: MEMO
 by BinKadal, Sdn. Bhd.
 
-* npm cache verify
-* NAVBAR
-* node_modules
-* README.md branch gh-pages
+* How to set NAVBAR?
+* How to share node_modules?
+* How to add README.md to branch gh-pages with yarn deploy?
+* How to display a directories of files?
+* How to put a file for download?
 
 <hr />
 
