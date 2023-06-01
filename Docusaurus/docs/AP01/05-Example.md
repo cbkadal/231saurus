@@ -174,15 +174,16 @@ npm install --save raw-loader
 ## Raw Loader
 
 import CodeBlock from '@theme/CodeBlock';
-import MyComponentSource from '!!raw-loader!./hello.c';
+import MyComponentSource from '!!raw-loader!./C00-hello.c';
 
 <CodeBlock language="c">{MyComponentSource}</CodeBlock>
 
 <hr />
 
-Rev. 04 -- 31 May 2023
+Rev. 05 -- 01 Jun 2023
 
 <!--
+REV05: Thu 01 Jun 2023 10:00
 REV04: Wed 31 May 2023 12:00
 REV03: Mon 29 May 2023 17:00
 REV02: Sun 28 May 2023 11:00
