@@ -1,11 +1,13 @@
 ---
 sidebar_position: 1
 ---
+import CodeBlock from '@theme/CodeBlock';
 
 # Chapter 01
 
-StarBucks ipsum dolor J.CO Do Not! McD sit amet Wendy’s Burger King.
-KFC urna libero, in purus Hanamasa, sore wa tempura Hokben.
+import AS01wgetOVA from '!!raw-loader!../assets/src/01-wgetOVA.sh';
+
+<CodeBlock language="bash">{AS01wgetOVA}</CodeBlock>
 
 <hr />
 
