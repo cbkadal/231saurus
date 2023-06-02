@@ -114,9 +114,9 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- Revision: 26 - 02 Jun 2023`,
+        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- Revision: 26a - 02 Jun 2023`,
         // ZCZC
-        // REV26: Fri 02 Jun 2023 05:00
+        // REV26: Fri 02 Jun 2023 19:00
         // REV19: Fri 26 May 2023 10:00
         // REV09: Thu 25 May 2023 07:00
         // REV05: Thu 11 May 2023 03:00
