@@ -13,7 +13,7 @@ import CodeBlock from '@theme/CodeBlock';
 This OVA file was explicitly developed for Docusaurus.
 
 ### OVA Debian 11.7
-* OVA Link (Google Drive): <https://bit.ly/3AWlRjN>
+* 504 MB OVA file at Google Drive: <https://bit.ly/3AWlRjN>
 * WGET command:
 
 import AS01wgetOVA from '!!raw-loader!../assets/src/01-wgetOVA.sh';
@@ -211,10 +211,10 @@ npm install -g npm@9.6.6
 
 <hr />
 
-Rev. 08 --- 01 Jun 2023
+Rev. 09 --- 02 Jun 2023
 
 <!--
-REV08: Thu 01 Jun 2023 20:00
+REV09: Fri 02 Jun 2023 19:00
 REV07: Sun 28 May 2023 11:00
 REV05: Thu 25 May 2023 07:00
 REV03: Fri 05 May 2023 20:00

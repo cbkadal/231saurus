@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+tags: [Docusaurus, Settings]
 ---
 import CodeBlock from '@theme/CodeBlock';
 
