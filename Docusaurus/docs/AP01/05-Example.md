@@ -163,10 +163,10 @@ I can write **Markdown** alongside my _JSX_!
 
 ## Exporting components 2
 
-import Highlight2 from '@site/src/components/Highlight2';
+import Highlight from '@site/src/components/Highlight';
 
-<Highlight2 color="#25c2a0">Docusaurus green</Highlight2> and 
-<Highlight2 color="#1877F2">Facebook blue</Highlight2> are my favorite colors.
+<Highlight color="#25c2a0">Docusaurus green</Highlight> and 
+<Highlight color="#1877F2">Facebook blue</Highlight> are my favorite colors.
 
 I can write **Markdown** alongside my _JSX_!
 
@@ -184,13 +184,13 @@ import MyComponentSource from '!!raw-loader!/src/C00-hello.c';
 
 <hr />
 
-Rev. 05 -- 01 Jun 2023
+REV: 06 -- 02 Jun 2023
 
 <!--
+REV06: Fri 02 Jun 2023 16:00
 REV05: Thu 01 Jun 2023 10:00
 REV04: Wed 31 May 2023 12:00
 REV03: Mon 29 May 2023 17:00
-REV02: Sun 28 May 2023 11:00
 REV01: Sat 27 May 2023 11:00
 START: Wed 24 May 2023 16:00
 -->

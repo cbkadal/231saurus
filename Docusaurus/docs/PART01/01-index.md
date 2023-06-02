@@ -3,18 +3,40 @@ sidebar_position: 1
 ---
 import CodeBlock from '@theme/CodeBlock';
 
-# Chapter 01
+# Chapter 01 Settings
 
-import AS01wgetOVA from '!!raw-loader!../assets/src/01-wgetOVA.sh';
+These are the settings inside directory Docusaurus.
 
-<CodeBlock language="bash">{AS01wgetOVA}</CodeBlock>
+## docusaurus.config.js
+
+import AC01config from '!!raw-loader!../assets/config/docusaurus.config.js';
+
+<CodeBlock language="js">{AC01config}</CodeBlock>
+
+## src/pages/index.js
+
+import AS01index from '!!raw-loader!../assets/src/01-index.js';
+
+<CodeBlock language="js">{AS01index}</CodeBlock>
+
+## src/components/Highlight.js
+
+import AS02Highlight from '!!raw-loader!../assets/src/02-Highlight.js';
+
+<CodeBlock language="js">{AS02Highlight}</CodeBlock>
+
+## src/components/HomepageFeatures/index.js
+
+import AS03HomePageFeatures from '!!raw-loader!../assets/src/03-HomepageFeatures.js';
+
+<CodeBlock language="js">{AS03HomePageFeatures}</CodeBlock>
 
 <hr />
 
 Rev. 02 -- 02 Jun 2023
 
 <!--
-REV02: Fri 02 Jun 2023 05:00
+REV02: Fri 02 Jun 2023 17:00
 REV01: Sun 28 May 2023 11:00
 START: Wed 24 May 2023 20:00
 -->
