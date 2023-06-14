@@ -32,11 +32,18 @@ import AS03HomePageFeatures from '!!raw-loader!../assets/src/03-HomepageFeatures
 
 <CodeBlock language="js">{AS03HomePageFeatures}</CodeBlock>
 
+## src/components/QuickAccess/index.js
+
+import AS04QuickAccess from '!!raw-loader!../assets/src/04-QuickAccess.js';
+
+<CodeBlock language="js">{AS04QuickAccess}</CodeBlock>
+
 <hr />
 
-Rev. 02 -- 02 Jun 2023
+Rev. 03 -- 14 Jun 2023
 
 <!--
+REV03: Wed 14 Jun 2023 14:00
 REV02: Fri 02 Jun 2023 17:00
 REV01: Sun 28 May 2023 11:00
 START: Wed 24 May 2023 20:00

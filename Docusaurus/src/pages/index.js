@@ -4,7 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
+import QuickAccess from '@site/src/components/QuickAccess';
 import styles from './index.module.css';
 
 function HomepageHeader() {
@@ -44,12 +44,14 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <QuickAccess />
       </main>
     </Layout>
   );
 }
 
 // ZCZC
+// REV04: Wed 14 Jun 2023 14:00
 // REV03: Tue 30 May 2023 08:00
 // REV02: Tue 23 May 2023 20:00
 // REV01: Tue 09 May 2023 10:00
