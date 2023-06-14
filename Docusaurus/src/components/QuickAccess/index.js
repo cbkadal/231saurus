@@ -16,6 +16,34 @@ const Index = () => {
       content: "Yada yada yada yada yada.",
       target: "docs/"
     },
+    {
+      title: "Cheat Sheet",
+      subtitle: "Sub Cheat Sheet",
+      image: "https://www.pengertianku.net/wp-content/uploads/2017/08/pengertian-linux.jpg",
+      content: "Yada yada yada yada yada.",
+      target: "docs/"
+    },
+    {
+      title: "Cheat Sheet",
+      subtitle: "Sub Cheat Sheet",
+      image: "https://www.pengertianku.net/wp-content/uploads/2017/08/pengertian-linux.jpg",
+      content: "Yada yada yada yada yada.",
+      target: "docs/"
+    },
+    {
+      title: "Cheat Sheet",
+      subtitle: "Sub Cheat Sheet",
+      image: "https://www.pengertianku.net/wp-content/uploads/2017/08/pengertian-linux.jpg",
+      content: "Yada yada yada yada yada.",
+      target: "docs/"
+    },
+    {
+      title: "Cheat Sheet",
+      subtitle: "Sub Cheat Sheet",
+      image: "https://www.pengertianku.net/wp-content/uploads/2017/08/pengertian-linux.jpg",
+      content: "Yada yada yada yada yada.",
+      target: "docs/"
+    },
   ];
 
   const filteredCards = searchQuery
