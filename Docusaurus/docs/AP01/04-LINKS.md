@@ -16,10 +16,14 @@ by BinKadal, Sdn. Bhd.
 - [docusaurus.config.js](https://docusaurus.io/docs/api/docusaurus-config)
 - [MD Front Matter](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#markdown-front-matter)
 - [GitHub Status](https://www.githubstatus.com/)
+- [DocuBase](https://cbk2000.github.io/docubase/)
 
 ## Site Links
 - [helloReact](/helloReact)
 - [helloMarkdown](/helloMarkdown)
+
+## Files
+- [UU no. 11/1950: Pembentukan Propinsi Djawa Barat](/pdf/UU-1950-011-PEMBENTUKAN-PROPINSI-DJAWA-BARAT.pdf)
 
 ## Trial History
 - Trial #05: [GitHub](https://github.com/yforku/DocuDemo/) --- [Web](https://yforku.github.io/DocuDemo/)
@@ -30,12 +34,11 @@ by BinKadal, Sdn. Bhd.
 
 <hr />
 
-Rev. 06 -- 02 Jun 2023
+REV07: Tue 20 Jun 2023 08:00
 
 <!--
 REV06: Fri 02 Jun 2023 03:00
 REV05: Thu 01 Jun 2023 19:00
-REV04: Mon 29 May 2023 10:00
 REV03: Sun 28 May 2023 11:00
 REV01: Fri 26 May 2023 10:00
 START: Thu 25 May 2023 19:00

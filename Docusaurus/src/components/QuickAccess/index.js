@@ -12,35 +12,35 @@ const Index = () => {
     {
       title: "Cheat Sheet",
       subtitle: "Sub Cheat Sheet",
-      image: "https://www.pengertianku.net/wp-content/uploads/2017/08/pengertian-linux.jpg",
+      image: "img/cbkadalDOCU.jpg",
       content: "Yada yada yada yada yada.",
       target: "docs/"
     },
     {
       title: "Cheat Sheet",
       subtitle: "Sub Cheat Sheet",
-      image: "https://www.pengertianku.net/wp-content/uploads/2017/08/pengertian-linux.jpg",
+      image: "img/cbkadalDOCU.jpg",
       content: "Yada yada yada yada yada.",
       target: "docs/"
     },
     {
       title: "Cheat Sheet",
       subtitle: "Sub Cheat Sheet",
-      image: "https://www.pengertianku.net/wp-content/uploads/2017/08/pengertian-linux.jpg",
+      image: "img/cbkadalDOCU.jpg",
       content: "Yada yada yada yada yada.",
       target: "docs/"
     },
     {
       title: "Cheat Sheet",
       subtitle: "Sub Cheat Sheet",
-      image: "https://www.pengertianku.net/wp-content/uploads/2017/08/pengertian-linux.jpg",
+      image: "img/cbkadalDOCU.jpg",
       content: "Yada yada yada yada yada.",
       target: "docs/"
     },
     {
       title: "Cheat Sheet",
       subtitle: "Sub Cheat Sheet",
-      image: "https://www.pengertianku.net/wp-content/uploads/2017/08/pengertian-linux.jpg",
+      image: "img/cbkadalDOCU.jpg",
       content: "Yada yada yada yada yada.",
       target: "docs/"
     },

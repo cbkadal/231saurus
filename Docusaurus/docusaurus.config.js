@@ -13,7 +13,7 @@ const config = {
   baseUrl: '/231saurus/',                 // Or else
   organizationName: 'cbkadal',            // (Usually your GitHub org/user name)
   projectName: '231saurus',               // (Usually your repo name)
-  trailingSlash: true,                    // "true" or "false"
+  trailingSlash: true,                   // "true" or "false"
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -114,8 +114,9 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- Revision: 27b - 14 Jun 2023`,
-        // ZCZC
+        copyright: `Copyright © ${new Date().getFullYear()} BinKadal, Sendirian Berhad --- 
+        REV28: Tue 20 Jun 2023 09:00
+        `,
         // REV27: Wed 14 Jun 2023 15:00
         // REV19: Fri 26 May 2023 10:00
         // REV09: Thu 25 May 2023 07:00
